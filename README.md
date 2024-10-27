@@ -1,12 +1,9 @@
-# Grupo 13
+# Administración de turnos en minería
 
-Este es el repositorio del *Grupo 13*, cuyos integrantes son:
-
-* Felipe Sandoval - 202073095-4
-* Lucas Bernard - 202073102-0
-* Matías Málaga - 202073039-3
-* Matías Palma - 201866153-8
-* **Tutor**: Camilo
+* Felipe Sandoval
+* Lucas Bernard
+* Matías Málaga
+* Matías Palma
 
 ## Wiki
 
